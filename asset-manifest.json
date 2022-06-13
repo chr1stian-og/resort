@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/resort/static/css/main.84113882.css",
+    "main.js": "/resort/static/js/main.757390e0.js",
+    "static/media/beach Video.mp4": "/resort/static/media/beach Video.bc1e98876c8e691a568e.mp4",
+    "static/media/ProductSans-Medium.woff": "/resort/static/media/ProductSans-Medium.70f0942277dd5cd83980.woff",
+    "index.html": "/resort/index.html",
+    "main.84113882.css.map": "/resort/static/css/main.84113882.css.map",
+    "main.757390e0.js.map": "/resort/static/js/main.757390e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84113882.css",
+    "static/js/main.757390e0.js"
+  ]
+}
